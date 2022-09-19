@@ -1,0 +1,31 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiccoloTerzaghi/discord-bot.git"
+  },
+  "keywords": [],
+  "author": "Terzaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiccoloTerzaghi/discord-bot/issues"
+  },
+  "homepage": "https://github.com/NiccoloTerzaghi/discord-bot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord-api-types": "^0.37.9",
+    "discord.js": "^14.3.0"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.2",
+    "nodemon": "^2.0.19"
+  }
+}
