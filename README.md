@@ -46,7 +46,7 @@ Once everything has been set up you can:
 
 ## More
 
-- This project has been made possible thanks to [**_Fusion Terror_**'s playlist on Discord.js 14](https://www.youtube.com/watch?v=6IgOXmQMT68&list=PLv0io0WjFNn9LDsv1W4fOWygNFzY342Jm&ab_channel=FusionTerror).
+- This project has been made possible thanks to [**_Fusion Terror_**'s playlist on Discord.js v14](https://www.youtube.com/watch?v=6IgOXmQMT68&list=PLv0io0WjFNn9LDsv1W4fOWygNFzY342Jm&ab_channel=FusionTerror).
 
 ## Disclaimer
 
