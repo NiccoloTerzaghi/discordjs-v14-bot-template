@@ -15,6 +15,22 @@ In order to make this template work you have to add the following dependecies:
 - `npm i -D dotenv` &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Environment variables_
 - `npm i -D nodemon` &emsp;&emsp;&emsp;&emsp;&emsp;_Automatically restarting the node application when file changes in the directory are detected_
 
+## Must-do
+
+You need to **_create a file_** to store your **_environment variables_** that must remain private.
+
+- Create a **_.env_** file in the **_root_** of the project
+  - **_.env_** content:
+    - ```
+      TOKEN = [your bot's token]
+      BOT_ID = [your bot's ID]
+      ```
+    - **_TOKEN_**: visit Discord Developer Portal https://discord.com/developers/applications
+    - **_BOT_ID_**:
+      - Open Discord and navigate to your server
+      - User Settings > Advanced > Developer Mode > ON
+      - Right click on your bot > Copy ID
+
 ## How to run your app
 
 Once everything has been set up you can:
